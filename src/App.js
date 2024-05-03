@@ -1,4 +1,5 @@
 import './App.css';
+import CartPage from './pages/CartPage';
 
 import Home from './pages/Home';
 import LoginPage from './pages/LoginPage';
@@ -26,6 +27,11 @@ const router = createBrowserRouter([
   {
     path: "/signup",
     element: <SignupPage></SignupPage>,
+  },
+  {
+    // only for testing then the code will be added
+    path: "/cart",
+    element: <CartPage></CartPage>,
   },
 ]);
 
