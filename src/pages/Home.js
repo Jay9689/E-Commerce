@@ -1,6 +1,6 @@
+import { Link } from "react-router-dom";
 import NavBar from "../features/navbar/Navbar";
 import ProductList from "../features/product/components/ProductList";
-import LoginPage from "./LoginPage";
 
 function Home() {
     return (
@@ -8,8 +8,8 @@ function Home() {
             <NavBar>
                 <ProductList></ProductList>
             </NavBar>
-            {/* <LoginPage></LoginPage> */}
         </div>
     );
 }
+
 export default Home;
