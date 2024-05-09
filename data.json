@@ -2464,7 +2464,8 @@
         "state": "Rajasthan",
         "pinCode": "311001"
       },
-      "id": 1
+      "id": 1,
+      "status": "dispatched"
     },
     {
       "items": [
@@ -2546,7 +2547,7 @@
         "state": "Rajasthan",
         "pinCode": "311001"
       },
-      "status": "pending",
+      "status": "dispatched",
       "id": 2
     },
     {
@@ -2610,7 +2611,7 @@
         "state": "Maharashtra",
         "pinCode": "311003"
       },
-      "status": "pending",
+      "status": "dispatched",
       "id": 3
     },
     {
@@ -2914,6 +2915,200 @@
       },
       "status": "pending",
       "id": 8
+    },
+    {
+      "items": [
+        {
+          "title": "Microsoft Surface Laptop 4",
+          "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+          "price": 1499,
+          "discountPercentage": 10.23,
+          "rating": 4.43,
+          "stock": 68,
+          "brand": "Microsoft Surface",
+          "category": "laptops",
+          "thumbnail": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg",
+          "images": [
+            "https://cdn.dummyjson.com/product-images/8/1.jpg",
+            "https://cdn.dummyjson.com/product-images/8/2.jpg",
+            "https://cdn.dummyjson.com/product-images/8/3.jpg",
+            "https://cdn.dummyjson.com/product-images/8/4.jpg",
+            "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg"
+          ],
+          "quantity": 1,
+          "user": 3,
+          "id": 1
+        }
+      ],
+      "totalAmount": 1346,
+      "totalItems": 1,
+      "user": {
+        "email": "jp@gmail.com",
+        "password": "Stud@1234",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "james Smith",
+            "email": "Smith@123",
+            "city": "Bhilwara",
+            "state": "Rajasthan",
+            "pinCode": "311001",
+            "phone": "0968 956 5459",
+            "street": "Solanki taki road ,9b, shastri nagar bhilwara"
+          },
+          {
+            "name": "Jay Pawar",
+            "email": "jaypawar916@gmail.com",
+            "phone": "9689565459",
+            "street": "RamNagar, bhopal",
+            "city": "bhopal",
+            "state": "madyapradesh",
+            "pinCode": "234541"
+          }
+        ],
+        "id": 3
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Jay Pawar",
+        "email": "jaypawar916@gmail.com",
+        "phone": "9689565459",
+        "street": "RamNagar, bhopal",
+        "city": "bhopal",
+        "state": "madyapradesh",
+        "pinCode": "234541"
+      },
+      "status": "delivered",
+      "id": 9
+    },
+    {
+      "items": [
+        {
+          "title": "Leather Strap Skeleton Watch",
+          "description": "Leather Strap Skeleton Watch for Men - Stylish and Latest Design",
+          "price": 46,
+          "discountPercentage": 10.2,
+          "rating": 4.98,
+          "stock": 61,
+          "brand": "Strap Skeleton",
+          "category": "mens-watches",
+          "thumbnail": "https://cdn.dummyjson.com/product-images/64/thumbnail.jpg",
+          "images": [
+            "https://cdn.dummyjson.com/product-images/64/1.jpg",
+            "https://cdn.dummyjson.com/product-images/64/2.webp",
+            "https://cdn.dummyjson.com/product-images/64/3.jpg",
+            "https://cdn.dummyjson.com/product-images/64/thumbnail.jpg"
+          ],
+          "quantity": 1,
+          "user": 3,
+          "id": 1
+        }
+      ],
+      "totalAmount": 41,
+      "totalItems": 1,
+      "user": {
+        "email": "jp@gmail.com",
+        "password": "Stud@1234",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "james Smith",
+            "email": "Smith@123",
+            "city": "Bhilwara",
+            "state": "Rajasthan",
+            "pinCode": "311001",
+            "phone": "0968 956 5459",
+            "street": "Solanki taki road ,9b, shastri nagar bhilwara"
+          },
+          {
+            "name": "Jay Pawar",
+            "email": "jaypawar916@gmail.com",
+            "phone": "9689565459",
+            "street": "RamNagar, bhopal",
+            "city": "bhopal",
+            "state": "madyapradesh",
+            "pinCode": "234541"
+          }
+        ],
+        "id": 3
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "james Smith",
+        "email": "Smith@123",
+        "city": "Bhilwara",
+        "state": "Rajasthan",
+        "pinCode": "311001",
+        "phone": "0968 956 5459",
+        "street": "Solanki taki road ,9b, shastri nagar bhilwara"
+      },
+      "status": "pending",
+      "id": 10
+    },
+    {
+      "items": [
+        {
+          "title": "Hyaluronic Acid Serum",
+          "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+          "price": 19,
+          "discountPercentage": 13.31,
+          "rating": 4.83,
+          "stock": 110,
+          "brand": "L'Oreal Paris",
+          "category": "skincare",
+          "thumbnail": "https://cdn.dummyjson.com/product-images/16/thumbnail.jpg",
+          "images": [
+            "https://cdn.dummyjson.com/product-images/16/1.png",
+            "https://cdn.dummyjson.com/product-images/16/2.webp",
+            "https://cdn.dummyjson.com/product-images/16/3.jpg",
+            "https://cdn.dummyjson.com/product-images/16/4.jpg",
+            "https://cdn.dummyjson.com/product-images/16/thumbnail.jpg"
+          ],
+          "quantity": 1,
+          "user": 3,
+          "id": 1
+        }
+      ],
+      "totalAmount": 16,
+      "totalItems": 1,
+      "user": {
+        "email": "jp@gmail.com",
+        "password": "Stud@1234",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "james Smith",
+            "email": "Smith@123",
+            "city": "Bhilwara",
+            "state": "Rajasthan",
+            "pinCode": "311001",
+            "phone": "0968 956 5459",
+            "street": "Solanki taki road ,9b, shastri nagar bhilwara"
+          },
+          {
+            "name": "Jay Pawar",
+            "email": "jaypawar916@gmail.com",
+            "phone": "9689565459",
+            "street": "RamNagar, bhopal",
+            "city": "bhopal",
+            "state": "madyapradesh",
+            "pinCode": "234541"
+          }
+        ],
+        "id": 3
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "james Smith",
+        "email": "Smith@123",
+        "city": "Bhilwara",
+        "state": "Rajasthan",
+        "pinCode": "311001",
+        "phone": "0968 956 5459",
+        "street": "Solanki taki road ,9b, shastri nagar bhilwara"
+      },
+      "status": "pending",
+      "id": 11
     }
   ]
 }
