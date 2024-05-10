@@ -7,7 +7,7 @@
       "price": 480,
       "discountPercentage": 12.96,
       "rating": 4.69,
-      "stock": 94,
+      "stock": 0,
       "brand": "Apple",
       "category": "smartphones",
       "thumbnail": "https://th.bing.com/th/id/R.f3f75edee790a7f2f668939e026de969?rik=HTJ%2bOec74K%2fAYw&riu=http%3a%2f%2fiphonekilif.com.tr%2ffile%2fopen%2f2102716361%2fiphone-9.jpg&ehk=GN4iWmnvmh47cnb1ph1YN7uzW6Ywz%2fe8BitfrPgpoF0%3d&risl=&pid=ImgRaw&r=0",
@@ -35,7 +35,8 @@
         "https://cdn.dummyjson.com/product-images/2/2.jpg",
         "https://cdn.dummyjson.com/product-images/2/3.jpg",
         "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
-      ]
+      ],
+      "deleted": true
     },
     {
       "id": 3,
@@ -1846,7 +1847,7 @@
       "category": "laptops",
       "price": 70,
       "discountPercentage": 1,
-      "stock": 99,
+      "stock": 0,
       "thumbnail": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbookair-og-202402?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1707414684423",
       "images": [
         "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
